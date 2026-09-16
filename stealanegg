@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://luasnapper.xyz/files/loaders/570d82604b99418492e061325a531f47.lua"))()
+loadstring(game:HttpGet("https://luasnapper.xyz/files/loaders/c0428e0a52554b0d9140f838585b466d.lua"))()
